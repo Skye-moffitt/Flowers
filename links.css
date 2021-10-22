@@ -1,0 +1,10 @@
+h1 {
+    color:black;
+    text-align: center;
+    font-family:'Open Sans', sans-serif;
+    font-size:50px
+}
+ul {
+    list-style-type: square;
+    font-size: 15;
+}
